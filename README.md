@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @RJavierRC
-- 👀 I'm interested in learning how to use Git and Hub
+- 👀 I'm interested in learning how to use Git 
 - 🌱 I'm currently improving my programming and managing my money hehe
 - 💞️ I'm looking to collaborate on sound
 - 📫 How to contact me, my email 21160767@itoaxaca.edu.mx
